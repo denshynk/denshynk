@@ -3,7 +3,6 @@
 `Student: KPI`
 `Group: IS-03`
 <code>⚪ Community: Metarhia</code>
-<code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 `Languages: Python`
 `Speciality: Python Developer`
