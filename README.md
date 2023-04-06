@@ -1,7 +1,6 @@
 ### About me
 
 `Student: KPI`
-`Group: IS-03`
 <code>⚪ Community: Metarhia</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 `Languages: Python`
