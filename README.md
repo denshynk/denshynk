@@ -3,8 +3,8 @@
 `Student: KPI`
 <code>⚪ Community: Metarhia</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-`Languages: Python`
-`Speciality: Python Developer`
+`Languages: JS`
+`Speciality: Front`
 
 ### Langueges and Tools I Lern
 [![PYTHON](https://img.shields.io/badge/-Python-483D8B?style=for-the-badge&logo=python&logoColor=FFD700)](https://en.wikipedia.org/wiki/Python_(programming_language))
